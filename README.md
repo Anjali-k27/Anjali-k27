@@ -6,9 +6,17 @@
 - 💞️ I’m looking to collaborate on data science / data analytics project
 - 📫 How to reach me : LinkedIN profile: https://www.linkedin.com/in/anjali-pandey-933a96167/
 
+## Technical skills
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 <hr>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Anjali-k27&show_icons=true&theme=dark" width="400">
+
 
 <!---
 Anjali-k27/Anjali-k27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
